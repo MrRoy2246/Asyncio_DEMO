@@ -1,0 +1,7 @@
+process--> Execution of a program is known as a process.
+                Multiple process can not share memory.they are isolated.
+
+thread-->threads are a part of the process.
+                It helps in the execution of the code in the process.
+                        1 Process cane have multiple threads that can share memory with each other.
+                                Multi thread process can do more than 1 task at a time.
